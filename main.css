@@ -1,0 +1,21 @@
+body{
+    background-image: url(photo_2021-08-06_10-56-42.jpg);
+    background-position: fixed;
+display: inline-block;
+height: 120px;
+width: 20px;
+background-size: 1200px;
+background-repeat: no-repeat;
+}
+h1{
+    color: red;
+   
+}
+h2{
+    
+    color:orange;
+}
+h3{
+    
+    color: black;
+}
